@@ -1,0 +1,4 @@
+﻿  NILayer.cpp
+c:\users\yoonsoo\source\repos\file_transfer\file_transfer\nilayer.cpp(88): warning C4101: 'header' :참조되지 않은 지역 변수입니다.
+c:\users\yoonsoo\source\repos\file_transfer\file_transfer\nilayer.cpp(104): warning C4700: 초기화되지 않은 'pkt_data' 지역 변수를 사용했습니다.
+  File_transfer.vcxproj -> C:\Users\yoonsoo\source\repos\File_transfer\x64\Debug\File_transfer.exe
